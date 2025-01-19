@@ -1,6 +1,6 @@
 # Philippine Address Selector
 
-This project provides a dynamic, cascading dropdown address selectorthat enables users to select an address step-by-step: starting with a region, followed by a province, city/municipality, and barangay. The dropdowns are dynamically populated using data stored in JSON files.
+This project provides a dynamic, cascading dropdown address selectorthat enables users to select an address step-by-step: starting with a region, followed by a province, city/municipality, and barangay. The dropdowns are dynamically populated using data stored in JSON files,  which can be easily generated and updated using [psgc_data_to_json](https://github.com/bryanflorano/psgc-data-to-json).
 
 
 ## Project Structure
